@@ -1,6 +1,5 @@
 # Leia dois números e mostre o maior
 
-
 numr1= int(input('Digite um número:'))
 numr2= int(input('Digite um número:'))
 if numr1 > numr2:
